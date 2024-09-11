@@ -1,0 +1,30 @@
+#paginasecundaria{
+    z-index: 1;
+    background: SteelBlue;
+    min-height: 100vh; 
+    
+}
+
+#titulo3{
+    color: white;
+    font-size: 16px;
+    text-align: justify;
+}
+
+#titulo1_{
+    color: white;
+}
+
+#seguir_1{
+    width: 150px;
+    height: 50px;
+    font-size: 18px;
+    background: #5f72bd 80%;
+    border-color: white;
+    
+}
+
+#contenedortexto{
+    padding-right: 4%;
+    padding-left: 4%;
+}

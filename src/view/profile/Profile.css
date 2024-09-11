@@ -1,0 +1,112 @@
+.container_profile{
+    background-color: rgb(173, 216, 230);  
+    min-width: 700px;
+    width: 100%;
+}
+
+.iconos{
+    color: black;
+}
+
+#containerSelect{
+    text-align: start;
+    padding: 0%, 0%;
+
+}
+
+#encabezadoperfil{
+    background-color: rgb(0, 100, 162);
+    min-width: 700px;
+    width: 100%;
+
+}
+
+
+.seleccion{
+    margin: auto;
+
+}
+
+
+#perfilForm{ 
+    width: 100%;
+    max-width: 1000px;
+    min-width: 700px;
+
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.tablaSocios {
+    border-collapse: separate;
+    border-spacing: 15px 5px;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    
+}
+
+
+.colorFilas .colorFilaSelect{
+    background: rgba(208, 208, 211, 0.865);
+}
+
+
+
+#contTabla{
+    margin: auto;
+}
+
+
+.contenedor-icono i{
+    font-size: 100%;
+    color: gray;
+}
+
+
+.seccion-perfil-usuario .perfil-usuario-body,
+.seccion-perfil-usuario {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
+.seccion-perfil-usuario .perfil-usuario-footer{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1.5rem 2.5rem;
+    box-shadow: 0 0 12px rgba(0, 0, 0, .2);
+    background-color: #fff;
+    border-radius: 15px;
+    width: 100%;
+    text-align: center;
+}
+
+
+
+.seccion-perfil-usuario .lista-datos {
+    width: 50%;
+    list-style: none;
+}
+
+.seccion-perfil-usuario .lista-datos li {
+    padding: 5px 0;
+    text-align: start;
+}
+
+.userValid{
+    color: #57B020
+}
+.userInvalid{
+    color: red
+}
+
+#rol {
+    text-align: right;
+}

@@ -1,0 +1,34 @@
+{
+  "background_color": "#ffffff",
+  "categories": ["business", "finance", "shopping"],
+  "description": "Pwa Artes Literarias",
+  "dir":"ltr",
+  "display_override": ["standalone", "fulllscreen"],
+  "display":"standalone",
+  "icons":[
+    {
+      "src":"loggo1_.png",
+      "sizes":"91x100",
+      "type":"image/png",
+      "purpose":"any"
+    },
+    {
+      "src":"loggo1_.png",
+      "sizes":"257x284",
+      "type":"image/png"
+    },
+    {
+      "src":"loggo1_.png",
+      "sizes":"500x500",
+      "type":"image/png"
+    }
+  ],
+  "lang":"es-MX",
+  "name":"Artes Literarias",
+  "orientation": "portrait",
+  "prefer_related_application": false,
+  "scope":"/",
+  "short_name":"ArtesLiterarias",
+  "start_url":"/",
+  "theme_color":"orange"
+}

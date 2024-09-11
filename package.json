@@ -1,0 +1,73 @@
+{
+  "name": "ArtesLiterariasPWA",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@heroicons/react": "^2.0.18",
+    "@mercadopago/sdk-react": "^0.0.19",
+    "@paypal/react-paypal-js": "^8.3.0",
+    "@tanstack/match-sorter-utils": "^8.8.4",
+    "@tanstack/react-table": "^8.9.3",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@trendyol-js/react-carousel": "^3.0.2",
+    "animate.css": "^4.1.1",
+    "apisauce": "3.0.0",
+    "bootstrap": "^5.3.0",
+    "classnames": "^2.3.2",
+    "expo-linear-gradient": "^12.3.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.10.2",
+    "react-debounce-input": "^3.3.0",
+    "react-dom": "^18.2.0",
+    "react-elastic-carousel": "^0.11.5",
+    "react-id-swiper": "^4.0.0",
+    "react-link-previewer": "^1.0.8",
+    "react-loader-spinner": "^5.3.4",
+    "react-redux": "^8.1.1",
+    "react-responsive-carousel": "^3.2.23",
+    "react-router-dom": "^6.14.2",
+    "react-scripts": "5.0.1",
+    "react-toastify": "^10.0.5",
+    "redux": "^4.2.1",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.4.2",
+    "styled-components": "^5.3.11",
+    "swiper": "^10.0.4",
+    "web-vitals": "^2.1.4",
+    "workbox-core": "^7.0.0",
+    "workbox-expiration": "^7.0.0",
+    "workbox-precaching": "^7.0.0",
+    "workbox-routing": "^7.0.0",
+    "workbox-strategies": "^7.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
